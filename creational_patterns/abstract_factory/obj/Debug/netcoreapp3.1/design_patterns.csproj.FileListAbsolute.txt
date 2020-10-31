@@ -1,0 +1,13 @@
+/home/bryan/Documents/dotnet/design_patterns/bin/Debug/netcoreapp3.1/design_patterns
+/home/bryan/Documents/dotnet/design_patterns/bin/Debug/netcoreapp3.1/design_patterns.deps.json
+/home/bryan/Documents/dotnet/design_patterns/bin/Debug/netcoreapp3.1/design_patterns.runtimeconfig.json
+/home/bryan/Documents/dotnet/design_patterns/bin/Debug/netcoreapp3.1/design_patterns.runtimeconfig.dev.json
+/home/bryan/Documents/dotnet/design_patterns/bin/Debug/netcoreapp3.1/design_patterns.dll
+/home/bryan/Documents/dotnet/design_patterns/bin/Debug/netcoreapp3.1/design_patterns.pdb
+/home/bryan/Documents/dotnet/design_patterns/obj/Debug/netcoreapp3.1/design_patterns.csprojAssemblyReference.cache
+/home/bryan/Documents/dotnet/design_patterns/obj/Debug/netcoreapp3.1/design_patterns.AssemblyInfoInputs.cache
+/home/bryan/Documents/dotnet/design_patterns/obj/Debug/netcoreapp3.1/design_patterns.AssemblyInfo.cs
+/home/bryan/Documents/dotnet/design_patterns/obj/Debug/netcoreapp3.1/design_patterns.csproj.CoreCompileInputs.cache
+/home/bryan/Documents/dotnet/design_patterns/obj/Debug/netcoreapp3.1/design_patterns.dll
+/home/bryan/Documents/dotnet/design_patterns/obj/Debug/netcoreapp3.1/design_patterns.pdb
+/home/bryan/Documents/dotnet/design_patterns/obj/Debug/netcoreapp3.1/design_patterns.genruntimeconfig.cache

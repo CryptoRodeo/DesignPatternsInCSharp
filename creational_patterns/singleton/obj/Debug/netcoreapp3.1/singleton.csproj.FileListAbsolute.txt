@@ -1,0 +1,13 @@
+/home/bryan/Documents/dotnet/design_patterns/creational_patterns/singleton/bin/Debug/netcoreapp3.1/singleton
+/home/bryan/Documents/dotnet/design_patterns/creational_patterns/singleton/bin/Debug/netcoreapp3.1/singleton.deps.json
+/home/bryan/Documents/dotnet/design_patterns/creational_patterns/singleton/bin/Debug/netcoreapp3.1/singleton.runtimeconfig.json
+/home/bryan/Documents/dotnet/design_patterns/creational_patterns/singleton/bin/Debug/netcoreapp3.1/singleton.runtimeconfig.dev.json
+/home/bryan/Documents/dotnet/design_patterns/creational_patterns/singleton/bin/Debug/netcoreapp3.1/singleton.dll
+/home/bryan/Documents/dotnet/design_patterns/creational_patterns/singleton/bin/Debug/netcoreapp3.1/singleton.pdb
+/home/bryan/Documents/dotnet/design_patterns/creational_patterns/singleton/obj/Debug/netcoreapp3.1/singleton.csprojAssemblyReference.cache
+/home/bryan/Documents/dotnet/design_patterns/creational_patterns/singleton/obj/Debug/netcoreapp3.1/singleton.AssemblyInfoInputs.cache
+/home/bryan/Documents/dotnet/design_patterns/creational_patterns/singleton/obj/Debug/netcoreapp3.1/singleton.AssemblyInfo.cs
+/home/bryan/Documents/dotnet/design_patterns/creational_patterns/singleton/obj/Debug/netcoreapp3.1/singleton.csproj.CoreCompileInputs.cache
+/home/bryan/Documents/dotnet/design_patterns/creational_patterns/singleton/obj/Debug/netcoreapp3.1/singleton.dll
+/home/bryan/Documents/dotnet/design_patterns/creational_patterns/singleton/obj/Debug/netcoreapp3.1/singleton.pdb
+/home/bryan/Documents/dotnet/design_patterns/creational_patterns/singleton/obj/Debug/netcoreapp3.1/singleton.genruntimeconfig.cache

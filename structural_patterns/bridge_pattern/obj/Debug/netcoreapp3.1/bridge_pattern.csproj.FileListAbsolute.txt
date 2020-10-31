@@ -1,0 +1,13 @@
+/home/bryan/Documents/dotnet/design_patterns/structural_patterns/bridge_pattern/bin/Debug/netcoreapp3.1/bridge_pattern
+/home/bryan/Documents/dotnet/design_patterns/structural_patterns/bridge_pattern/bin/Debug/netcoreapp3.1/bridge_pattern.deps.json
+/home/bryan/Documents/dotnet/design_patterns/structural_patterns/bridge_pattern/bin/Debug/netcoreapp3.1/bridge_pattern.runtimeconfig.json
+/home/bryan/Documents/dotnet/design_patterns/structural_patterns/bridge_pattern/bin/Debug/netcoreapp3.1/bridge_pattern.runtimeconfig.dev.json
+/home/bryan/Documents/dotnet/design_patterns/structural_patterns/bridge_pattern/bin/Debug/netcoreapp3.1/bridge_pattern.dll
+/home/bryan/Documents/dotnet/design_patterns/structural_patterns/bridge_pattern/bin/Debug/netcoreapp3.1/bridge_pattern.pdb
+/home/bryan/Documents/dotnet/design_patterns/structural_patterns/bridge_pattern/obj/Debug/netcoreapp3.1/bridge_pattern.csprojAssemblyReference.cache
+/home/bryan/Documents/dotnet/design_patterns/structural_patterns/bridge_pattern/obj/Debug/netcoreapp3.1/bridge_pattern.AssemblyInfoInputs.cache
+/home/bryan/Documents/dotnet/design_patterns/structural_patterns/bridge_pattern/obj/Debug/netcoreapp3.1/bridge_pattern.AssemblyInfo.cs
+/home/bryan/Documents/dotnet/design_patterns/structural_patterns/bridge_pattern/obj/Debug/netcoreapp3.1/bridge_pattern.csproj.CoreCompileInputs.cache
+/home/bryan/Documents/dotnet/design_patterns/structural_patterns/bridge_pattern/obj/Debug/netcoreapp3.1/bridge_pattern.dll
+/home/bryan/Documents/dotnet/design_patterns/structural_patterns/bridge_pattern/obj/Debug/netcoreapp3.1/bridge_pattern.pdb
+/home/bryan/Documents/dotnet/design_patterns/structural_patterns/bridge_pattern/obj/Debug/netcoreapp3.1/bridge_pattern.genruntimeconfig.cache
